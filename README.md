@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @anfego22
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning golang
 - 📫 How to reach me anfego22@gmail.com
 
 <!---
